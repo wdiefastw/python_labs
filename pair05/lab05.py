@@ -1,7 +1,7 @@
 import math
 
 def area_circle(radius):
-    return 3.14159 * radius * radius
+    return math.pi * radius * radius
 
 def area_rectangle(a, b):
     return a * b
